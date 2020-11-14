@@ -17,8 +17,8 @@ Maybe something to sell later on to other MTHOW enthusiasts.
 
 ### Elevator bed
 
-Motorized, suspended with pulleys and tracks: https://www.youtube.com/watch?v=ZEurdaURavw
-Manual, suspended pully arms and no tracks (must be supported): https://www.youtube.com/watch?v=1ppIrFl3KeY
+- Motorized, suspended with pulleys and tracks: https://www.youtube.com/watch?v=ZEurdaURavw
+- Manual, suspended pully arms and no tracks (must be supported): https://www.youtube.com/watch?v=1ppIrFl3KeY
 
 ## Color Palettes
 
