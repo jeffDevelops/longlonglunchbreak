@@ -4,10 +4,21 @@
 
 [Asana](https://app.asana.com/0/1199152416742837/list)
 
+## Shapr 3D
+
+/path/to/shapr3d/spec
+
 ## HAL 9000
 
---Link to personal iOS app for monitoring water/electricity consumption here--
+--Potential link to personal iOS app for monitoring water/electricity consumption here--
 Maybe something to sell later on to other MTHOW enthusiasts.
+
+## Inspiration Links
+
+### Elevator bed
+
+Motorized, suspended with pulleys and tracks: https://www.youtube.com/watch?v=ZEurdaURavw
+Manual, suspended pully arms and no tracks (must be supported): https://www.youtube.com/watch?v=1ppIrFl3KeY
 
 ## Color Palettes
 
