@@ -19,7 +19,7 @@ Maybe something to sell later on to other MTHOW enthusiasts.
 
 ![RoVer-S](./colorPalettes/RoVer-S.png)
 
-### Rover
+### RoVer
 
 ![RoVer](./colorPalettes/RoVer.png)
 
